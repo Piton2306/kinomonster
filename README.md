@@ -1,1 +1,1 @@
-# kinomonster
+Вёрстка HTML сайта.
